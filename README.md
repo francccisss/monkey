@@ -1,2 +1,3 @@
-# golox
-Following -  Writing an interpreter in Go by Thorsten Ball
+# monkey
+
+Following - Writing an interpreter in Go by Thorsten Ball
